@@ -6,7 +6,7 @@ IP address: 13.243.17.149.
 
 Accessible SSH port: 2200.
 
-Application URL : 13.243.17.149/candymanufacturers
+Application URL : 13.234.17.149/candymanufacturers
 
 # Configuration Summary
 

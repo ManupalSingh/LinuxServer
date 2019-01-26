@@ -2,7 +2,7 @@
 Item-catalog project hosted on a aws lightsail server
 
 # Access Details
-IP address: 13.243.17.149.
+IP address: 13.234.17.149.
 
 Accessible SSH port: 2200.
 
